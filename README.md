@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Divya1523/JavaProgramming/tree/master/0066-plus-one) |
 | [1929-concatenation-of-array](https://github.com/Divya1523/JavaProgramming/tree/master/1929-concatenation-of-array) |
 | [3668-restore-finishing-order](https://github.com/Divya1523/JavaProgramming/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Divya1523/JavaProgramming/tree/master/0066-plus-one) |
 | [2469-convert-the-temperature](https://github.com/Divya1523/JavaProgramming/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
