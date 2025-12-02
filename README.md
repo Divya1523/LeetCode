@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divya1523/JavaProgramming/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Divya1523/JavaProgramming/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Divya1523/JavaProgramming/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Divya1523/JavaProgramming/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya1523/JavaProgramming/tree/master/0628-maximum-product-of-three-numbers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Divya1523/JavaProgramming/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/Divya1523/JavaProgramming/tree/master/1512-number-of-good-pairs) |
