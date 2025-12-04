@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Divya1523/JavaProgramming/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Divya1523/JavaProgramming/tree/master/1688-count-of-matches-in-tournament) |
 | [2469-convert-the-temperature](https://github.com/Divya1523/JavaProgramming/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/Divya1523/JavaProgramming/tree/master/2652-sum-multiples) |
 | [3516-find-closest-person](https://github.com/Divya1523/JavaProgramming/tree/master/3516-find-closest-person) |
 ## String
 |  |
