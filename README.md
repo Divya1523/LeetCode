@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Divya1523/JavaProgramming/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Divya1523/JavaProgramming/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Divya1523/JavaProgramming/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/Divya1523/JavaProgramming/tree/master/2974-minimum-number-game) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Divya1523/JavaProgramming/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Divya1523/JavaProgramming/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Divya1523/JavaProgramming/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Divya1523/JavaProgramming/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Divya1523/JavaProgramming/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya1523/JavaProgramming/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Divya1523/JavaProgramming/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Divya1523/JavaProgramming/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Divya1523/JavaProgramming/tree/master/1952-three-divisors) |
 ## Stack
 |  |
