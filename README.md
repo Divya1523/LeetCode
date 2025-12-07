@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Divya1523/JavaProgramming/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Divya1523/JavaProgramming/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Divya1523/JavaProgramming/tree/master/2574-left-and-right-sum-differences) |
+| [2678-number-of-senior-citizens](https://github.com/Divya1523/JavaProgramming/tree/master/2678-number-of-senior-citizens) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Divya1523/JavaProgramming/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Divya1523/JavaProgramming/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Divya1523/JavaProgramming/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Divya1523/JavaProgramming/tree/master/1108-defanging-an-ip-address) |
 | [2418-sort-the-people](https://github.com/Divya1523/JavaProgramming/tree/master/2418-sort-the-people) |
+| [2678-number-of-senior-citizens](https://github.com/Divya1523/JavaProgramming/tree/master/2678-number-of-senior-citizens) |
 | [3340-check-balanced-string](https://github.com/Divya1523/JavaProgramming/tree/master/3340-check-balanced-string) |
 ## Sorting
 |  |
