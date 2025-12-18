@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Divya1523/JavaProgramming/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Divya1523/JavaProgramming/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Divya1523/JavaProgramming/tree/master/1534-count-good-triplets) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Divya1523/JavaProgramming/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1672-richest-customer-wealth](https://github.com/Divya1523/JavaProgramming/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Divya1523/JavaProgramming/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Divya1523/JavaProgramming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Divya1523/JavaProgramming/tree/master/1108-defanging-an-ip-address) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Divya1523/JavaProgramming/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Divya1523/JavaProgramming/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Divya1523/JavaProgramming/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/Divya1523/JavaProgramming/tree/master/2678-number-of-senior-citizens) |
@@ -219,5 +221,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Divya1523/JavaProgramming/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Divya1523/JavaProgramming/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Divya1523/JavaProgramming/tree/master/1578-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
